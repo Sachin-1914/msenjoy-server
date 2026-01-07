@@ -12,5 +12,54 @@
     "imageUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/thumb2.jpg",
     "videoUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/music.mp4",
     "requiredPhotos": 1
+  },
+  {
+    "id": 3,
+    "name": "Birthday Special",
+    "imageUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/thumb2.jpg",
+    "videoUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/s.mp4",
+    "requiredPhotos": 1
+  },
+  {
+    "id": 4,
+    "name": "Birthday Special",
+    "imageUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/thumb2.jpg",
+    "videoUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/ss.mp4",
+    "requiredPhotos": 1
+  },
+  {
+    "id": 5,
+    "name": "Birthday Special",
+    "imageUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/thumb2.jpg",
+    "videoUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/sss.mp4",
+    "requiredPhotos": 1
+  },
+  {
+    "id": 6,
+    "name": "Birthday Special",
+    "imageUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/thumb2.jpg",
+    "videoUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/ssss.mp4",
+    "requiredPhotos": 1
+  },
+  {
+    "id": 7,
+    "name": "Special",
+    "imageUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/thumb2.jpg",
+    "videoUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/sssss.mp4",
+    "requiredPhotos": 1
+  },
+  {
+    "id": 8,
+    "name": "Birthday Special",
+    "imageUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/thumb2.jpg",
+    "videoUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/sa.mp4",
+    "requiredPhotos": 1
+  },
+  {
+    "id": 9,
+    "name": "Birthday Special",
+    "imageUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/thumb2.jpg",
+    "videoUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/saa.mp4",
+    "requiredPhotos": 1
   }
 ]
