@@ -4,9 +4,8 @@
     "name": "Love Magic",
     "imageUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/thumb1.jpg",
     "videoUrl": "https://raw.githubusercontent.com/Sachin-1914/msenjoy-server/main/template1.mp4",
-  
     "requiredPhotos": 1
-  }
+  },
   {
     "id": 2,
     "name": "Birthday Special",
